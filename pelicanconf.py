@@ -26,8 +26,11 @@ LINKS = (('Earth Strike', 'https://www.earth-strike.com/'),
         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (("ICC twitter", "https://twitter.com/IC4Climate"),
+          ("week for future facebook", "https://fb.example"),
+          ("week for future instagram", "https://instagram.example"),
+          ("week for future twitter", "https://twitter.example"),
+         )
 
 DEFAULT_PAGINATION = 10
 
