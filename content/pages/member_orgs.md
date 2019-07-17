@@ -6,3 +6,5 @@ Title: Member Organizations
 ![ES logo]({static}/images/es-int-big-horizontal.png){class="member-logo"}
 
 ![FFF logo]({static}/images/logo_fff_round.png){class="member-logo"}
+
+<link rel="stylesheet" href="{static}/css/members.css"/>
