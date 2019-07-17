@@ -1,4 +1,4 @@
-Title: My super title
+Title: ICC Press Release: Week for Future and Climate Justice
 Date: 2019-07-16 10:00
 Modified: 2019-07-16 10:00
 Category: Announce
