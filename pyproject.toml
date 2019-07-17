@@ -7,6 +7,7 @@ authors = ["Jack Laxson <jackjrabbit@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 pelican = "^4.1"
+Markdown = "^3.1"
 
 [tool.poetry.dev-dependencies]
 invoke = "^1.2"

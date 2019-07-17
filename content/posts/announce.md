@@ -1,16 +1,10 @@
 Title: My super title
-
 Date: 2019-07-16 10:00
 Modified: 2019-07-16 10:00
-
 Category: Announce
-
 Tags: press-release, post
-
 Slug: week-announce
-
 Authors: XR, ES, FFF, Many More
-
 Summary: Short version for index and feeds
 
 
