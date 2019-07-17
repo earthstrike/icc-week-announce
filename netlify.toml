@@ -1,3 +1,8 @@
 [build]
-    command = "poetry run pelican"
+    command = """
+    pip3 install -q poetry &&
+    poetry config settings.virtualenvs.in-project true &&
+    poetry install &&
+    poetry run pelican
+    """
     publish = "output"
