@@ -20,10 +20,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Earth Strike', 'https://www.earth-strike.com/'),
+         ('extinction rellion', 'https://rebellion.earth/'),
+         ('Fridays For Future', 'https://www.fridaysforfuture.org/'),
+        )
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
